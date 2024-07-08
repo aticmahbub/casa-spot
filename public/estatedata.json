@@ -1,0 +1,74 @@
+[
+    {
+      "estate_title": "Luxury Villa with Ocean View",
+      "id": 1,
+      "segment_name": "Premium",
+      "description": "Experience the epitome of luxury living in this stunning villa overlooking the azure waters of the ocean. With expansive living spaces, modern amenities, and breathtaking views, this property offers an unparalleled lifestyle.",
+      "price": "$2,500,000",
+      "status": "sale",
+      "area": "5000 sq ft",
+      "location": "Coastal Paradise, California",
+      "facilities": ["Living Room", "Swimming Pool", "Gourmet Kitchen"],
+      "image_url": "https://i.ibb.co/hKjrZCH/photo-1496328488450-9c5c5d555148-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg"
+    },
+    {
+      "estate_title": "Cosy Apartment in City Center",
+      "id": 2,
+      "segment_name": "Standard",
+      "description": "Discover urban living at its finest in this charming apartment located in the heart of the city. Perfect for young professionals or couples, this cozy space offers convenience and comfort.",
+      "price": "$1,500/month",
+      "status": "rent",
+      "area": "800 sq ft",
+      "location": "Downtown Metropolis, New York",
+      "facilities": ["Open Plan Living Area", "Fitness Center", "24/7 Security"],
+      "image_url": "https://i.ibb.co/ncm4Ndx/photo-1560185893-d9680d601385-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces-edg.jpg"
+    },
+    {
+      "estate_title": "Spacious Family Home with Garden",
+      "id": 3,
+      "segment_name": "Premium",
+      "description": "This spacious family home offers tranquility and comfort amidst lush greenery. With a beautifully landscaped garden, multiple bedrooms, and modern amenities, it's the perfect retreat for your family.",
+      "price": "$800,000",
+      "status": "sale",
+      "area": "3500 sq ft",
+      "location": "Suburban Sanctuary, Texas",
+      "facilities": ["Large Garden", "Family Room", "Home Office"],
+      "image_url": "https://i.ibb.co/x8CsrZ4/photo-1524431144429-03fdd30eee26-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg"
+    },
+    {
+      "estate_title": "Chic Loft in Artsy Neighborhood",
+      "id": 4,
+      "segment_name": "Standard",
+      "description": "Indulge in the vibrant culture of this artsy neighborhood with this stylish loft apartment. Featuring exposed brick walls, high ceilings, and artistic flair, it's a haven for creative souls.",
+      "price": "$2,000/month",
+      "status": "rent",
+      "area": "1000 sq ft",
+      "location": "Bohemian District, San Francisco",
+      "facilities": ["Loft Space", "Art Studio", "Roof Deck"],
+      "image_url": "https://i.ibb.co/wKVBd7M/photo-1610569244414-5e7453a447a8-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg"
+    },
+    {
+      "estate_title": "Modern Condo with City Views",
+      "id": 5,
+      "segment_name": "Premium",
+      "description": "Embrace contemporary urban living in this sleek condo offering breathtaking city views. With luxurious amenities and a prime location, it's the ultimate urban retreat.",
+      "price": "$1,200,000",
+      "status": "sale",
+      "area": "1500 sq ft",
+      "location": "Downtown Skyline, Chicago",
+      "facilities": ["Balcony", "Fitness Center", "Concierge Service"],
+      "image_url": "https://i.ibb.co/PQqDv3p/photo-1611755489400-3c53602ab783-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg"
+    },
+    {
+      "estate_title": "Cozy Cottage by the Lake",
+      "id": 6,
+      "segment_name": "Standard",
+      "description": "Escape to the serenity of this charming cottage nestled by the tranquil waters of the lake. With rustic charm and picturesque surroundings, it's the perfect getaway from the hustle and bustle of city life.",
+      "price": "$300/night",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "Lakeside Haven, Vermont",
+      "facilities": ["Fireplace", "Boat Dock", "Outdoor Patio"],
+      "image_url": "https://i.ibb.co/LgC2jDc/photo-1571055107559-3e67626fa8be-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg"
+    }
+  ]
