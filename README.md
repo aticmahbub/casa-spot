@@ -1,19 +1,14 @@
 Welcome to the  Project CASA Spot! This project is a web application designed to assist users in finding and managing spots within the CASA (Center for Autonomous Systems and Applications) framework. The application leverages modern web technologies to provide a user-friendly and efficient experience.
 
 Technologies used:
-HTML
-CSS
-JAVASCRPIT
-NODEJS
-MONGODB
+HTML,
+CSS,
+JAVASCRPIT,
+NODEJS,
+MONGODB,
 FIREBASE
 
-Features
-Spot Management: Add, edit, and remove spots within the CASA framework.
-User Authentication: Secure login and registration system.
-Responsive Design: Optimized for both desktop and mobile devices.
-Interactive Maps: Visual representation of spots using maps.
-Search Functionality: Easily find spots using the search feature.
+
 Installation
 To get a local copy up and running, follow these steps:
 
@@ -41,8 +36,7 @@ Register a new account or log in with an existing one.
 Add new spots by navigating to the "Add Spot" page.
 View and manage existing spots from the dashboard.
 Search for spots using the search bar.
-Contributing
-We welcome contributions to improve the ATIC Project CASA Spot! To contribute:
+
 
 Contact
 For any inquiries or feedback, please reach out to us at contact@aticmahbub.com
