@@ -1,6 +1,8 @@
-Welcome to the  Project CASA Spot! This project is a web application designed to assist users in finding and managing spots within the CASA (Center for Autonomous Systems and Applications) framework. The application leverages modern web technologies to provide a user-friendly and efficient experience.
+**Welcome to the  Project CASA Spot! This project is a web application designed to assist users in finding and managing spots. The application leverages modern web technologies to provide a user-friendly and efficient experience.**
 
-Technologies used:
+# live link: https://atic-casa-spot.netlify.app/
+
+# Technologies used:
 HTML,
 CSS,
 JAVASCRPIT,
@@ -9,27 +11,24 @@ MONGODB,
 FIREBASE
 
 
-Installation
+# Installation
 To get a local copy up and running, follow these steps:
 
-Prerequisites
-Node.js and npm installed on your local machine. You can download them here.
-Clone the Repository
-bash
-Copy code
+# Prerequisites
+Node.js and npm installed on your local machine. You can download them.
+
+1. Clone the Repository
 git clone https://github.com/your-username/atic-project-casa-spot.git
 cd atic-project-casa-spot
-Install Dependencies
-bash
-Copy code
+
+2. Install Dependencies
 npm install
-Running the Application
-bash
-Copy code
+
+3. Running the Application
 npm start
 The application should now be running on http://localhost:3000.
 
-Usage
+4. Usage
 Once the application is up and running, you can:
 
 Register a new account or log in with an existing one.
@@ -38,13 +37,12 @@ View and manage existing spots from the dashboard.
 Search for spots using the search bar.
 
 
-Contact
+# Contact
 For any inquiries or feedback, please reach out to us at contact@aticmahbub.com
 
 
 -----NPM Packages used:-----
-*Swiper slider
-*React hook form
-*AOS Package
-*Firebase
+*Swiper slider,
+*React hook form,
+*AOS Package,
 *React Helmet
